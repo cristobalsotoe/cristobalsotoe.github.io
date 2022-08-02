@@ -1,15 +1,14 @@
-<footer class="footer-main">
-    {{ site.title }} © {{ site.time | date: '%Y' }}
-
-    <a class="link" href="{{ site.url }}/feed.xml" target="_blank">
-        <svg class="icon icon-rss">
-            <use xlink:href="#icon-rss"></use>
-        </svg>
-    </a>
-
-    <p class="extra">
-        <a class="link" href="https://github.com/sergiokopplin/indigo">Indigo theme</a>
-        by
-        <a class="link" href="https://github.com/sergiokopplin/indigo">Kopplin</a>
-    </p>
+<!-- no footer at all! -->
+<footer class="bg-light py-5">
+  <div class="container">
+    <div class="small text-center text-muted">
+      {{ site.data.footer.copyright }}
+      &nbsp;
+      {% for link in site.data.footer.links %}
+          <a href="{{ link.url }}" {% assign new_window_is_not_empty = link.new_window | is_not_empty %}
+          {% if new_window_is_not_empty %}target="_blank" rel="noopener"
+          {% endif %}>{{ link.text }}</a>
+      {% endfor %} 
+    </div>
+  </div>
 </footer>
