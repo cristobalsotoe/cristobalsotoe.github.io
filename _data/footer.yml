@@ -1,5 +1,5 @@
-copyright: '&copy; Start Bootstrap'
+copyright: '&copy; Desarrollado por Cristóbal Soto en base a '
 links:
-  - text: Creative
-    url: 'https://startbootstrap.com/themes/creative/'
+  - text: Jekyll
+    url: 'https://jekyllrb.com/' 
     new_window: true
