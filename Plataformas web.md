@@ -9,6 +9,8 @@ menus:
     title: Links
     weight: 2
 ---
+
+### Curvas IDF
 <head>
     <title>Curvas IDF Chile</title>
     <meta charset="UTF-8" />
@@ -24,13 +26,14 @@ html {
 
 body {
   width: 100%;
-  height: 500px;
+
   margin: 0;
 }
 iframe {
-  margin: 100px;
+  margin: 0;
+  left: 1000px;
   width: 100%;
-  height: 1000px;
+  height: 700px;
   -ms-transform: scale(0.5);
   -moz-transform: scale(0.5);
   -o-transform: scale(0.5);
@@ -42,12 +45,36 @@ iframe {
   -o-transform-origin: 0 0;
   -webkit-transform-origin: 0 0;
   transform-origin: 0 0;
-  margin: 0;
 }
 
 </style>
 </head>
 <body>
+<iframe src="https://ingenieriacivil-ufro.shinyapps.io/CurvasIDFChile/" style="" frameborder="0" scrolling="no" ></iframe>
+</body>
 
-<iframe src="https://ingenieriacivil-ufro.shinyapps.io/CurvasIDFChile/" style="" frameborder="0" scrolling="no" align="center"></iframe>
+#### Información cuencas Costeras entre Maipo y Rapel:
+<body>
+<iframe src="https://icass.shinyapps.io/CCMaipoRapel/" style="" frameborder="0" scrolling="no" ></iframe>
+</body>
+
+#### Información cuenca Quebrada de la Concordia
+
+<body>
+<iframe src="https://icass.shinyapps.io/shiny_Concordia/" style="" frameborder="0" scrolling="no" ></iframe>
+</body>
+
+#### Información de cuencas estudio de investigación
+<body>
+<iframe src="https://csoto.shinyapps.io/dataCHI2" style="" frameborder="0" scrolling="no"></iframe>
+</body>
+
+#### Información cuencas nivel nacional
+<body>
+<iframe src="https://csoto.shinyapps.io/KO-Explorador/" style="" frameborder="0" scrolling="no"></iframe>
+</body>
+
+#### Información Región de la Araucanía
+<body>
+<iframe src="https://csoto.shinyapps.io/Araucania/" style="" frameborder="0" scrolling="no"></iframe>
 </body>

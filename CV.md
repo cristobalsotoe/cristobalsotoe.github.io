@@ -21,8 +21,8 @@ menus:
 
 ###### 2020 – Presente: Consultora ICASS Spa
 Ingeniero Consultor. Desarrollador de estudios hidrológicos e hidráulicos y de otra índole relacionada al ciclo hidrológico, las ciencias de la tierra, las ciencias ambientales. Parte del equipo de modelación integrada (superficial y subterránea) y desarrollo de Planes Estratégicos de Gestión de Recursos Hídricos impulsados por la Dirección General de Aguas (DGA) en las cuencas:
-+ Cuenca del Maipo: [_Enlace de acceso_](https://snia.mop.gob.cl/repositoriodga/handle/20.500.13000/125473)
-+ Cuencas Costeras entre Maipo y Rapel [_enlace_](https://snia.mop.gob.cl/repositoriodga/handle/20.500.13000/125826)
++ Cuenca del Maipo: [_(Enlace de acceso)_](https://snia.mop.gob.cl/repositoriodga/handle/20.500.13000/125473)
++ Cuencas Costeras entre Maipo y Rapel [_(Enlace de acceso)_](https://snia.mop.gob.cl/repositoriodga/handle/20.500.13000/125826)
 + Cuenca Quebrada de la Concordia _(en desarrollo)_
 
 ###### 2020: Universidad de Chile
