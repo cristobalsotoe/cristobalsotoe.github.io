@@ -13,11 +13,14 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Acerca de mí!
+    text: Soy Ingeniero Civil, de la Universidad de La Frontera. Temuco, Región de La Araucanía. Me titule en enero del 2020, desde entonces me he enfocado en el estudio de los recursos hídricos, trabajando en estudios de Planes Estrategicos de Gestión Hídrica, estudios hidrologicos y desarrollando modelos superficiales e integrados. Adicionalmente me he especializado en el desarrollo de plataformas de visualización de datos hidrológicos espaciales y temporales.
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Ver CV!
+        url: 'CV'
+        class: btn-light
+      - title: Ver plataformas web!
+        url: '/Plataformas web'
         class: btn-light
 
 #  - type: services.html
