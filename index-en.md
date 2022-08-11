@@ -6,7 +6,7 @@ header:
     Ingeniero Civil de la Universidad de la Frontera, con enfoque en Recursos hídricos
   action: # action button is optional
     label: Find Out More
-    url: '#timeline'
+    url: '#about'
 
 
 sections:
@@ -171,10 +171,11 @@ sections:
 
 
   - type: contact.html
-    section_id: Contacto
-    title: Mantengámonos en contacto!
+    section_id: contacts
+    title: Let's Get In Touch!
     text: >-
-      Escribeme al e-mail y te contestaré a penas pueda!
+      Ready to start your next project with us? Give us a call or send us an email
+      and we will get back to you as soon as possible!
     actions:
     - title: E-Mail
       icon: fa-envelope
