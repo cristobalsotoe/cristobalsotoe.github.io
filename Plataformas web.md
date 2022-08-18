@@ -54,9 +54,9 @@ iframe {
 </body>
 
 #### Información cuencas Costeras entre Maipo y Rapel:
-<body>
+
 <iframe src="https://icass.shinyapps.io/CCMaipoRapel/" style="" frameborder="0" scrolling="no" ></iframe>
-</body>
+
 
 #### Información cuenca Quebrada de la Concordia
 
