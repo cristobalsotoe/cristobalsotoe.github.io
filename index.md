@@ -137,9 +137,14 @@ sections:
           - Cuencas Costeras entre el río Maipo y Rapel
         text4: >-
           - Cuenca de la Quebrada de la Concoridía (en desarrollo)
-
       - image: assets/img/portfolio/thumbnails/perfil-universidad-la-frontera.jpeg
         title: >+
+          Enero 2020
+          **Ingeniero Civil de la Universidad de la Frontera**
+        text: >-
+          Obtención de calificación máxima en proyecto de titulación: “Construcción de curvas Intensida Duración-Frecuencia de alta resolución espacial en la zona Centro-Sur de Chile”
+      - image: assets/img/portfolio/thumbnails/perfil-universidad-la-frontera.jpeg
+        title: >-
           Enero 2020
           **Ingeniero Civil de la Universidad de la Frontera**
         text: >-
