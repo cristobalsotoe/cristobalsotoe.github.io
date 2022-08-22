@@ -123,7 +123,7 @@ sections:
     section_id: timeline
     title: Principales logros
     background_style: bg-dark text-primary
-    last_image: assets/img/portfolio/thumbnails/titulacion.jpeg
+    last_image: assets\img\foto de perfil.jpg
     actions:
       - image: assets/img/portfolio/thumbnails/icass.jpeg
         title: >+
@@ -137,12 +137,12 @@ sections:
           - Cuencas Costeras entre el río Maipo y Rapel
         text4: >-
           - Cuenca de la Quebrada de la Concoridía (en desarrollo)
-      - image: assets/img/portfolio/thumbnails/perfil-universidad-la-frontera.jpeg
+      - image: assets\img\egu.jpg
         title: >+
-          Enero 2020
-          **Ingeniero Civil de la Universidad de la Frontera**
+          2020
+          **EGU General Assembly**
         text: >-
-          Obtención de calificación máxima en proyecto de titulación: “Construcción de curvas Intensida Duración-Frecuencia de alta resolución espacial en la zona Centro-Sur de Chile”
+          Zambrano M., Soto C., Baez O. Spatially-distributed IDF curves for Center-Southern Chile using IMERG, EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-21091. [Ver](/Poster_EGU_2020)
       - image: assets/img/portfolio/thumbnails/perfil-universidad-la-frontera.jpeg
         title: >-
           Enero 2020
