@@ -20,7 +20,7 @@ sections:
         url: 'CV'
         class: btn-light
       - title: IDF Curves App
-        url: https:curvasidf.cl
+        url: 'https://curvasidf.cl'
         class: btn-light
 
 #  - type: services.html
