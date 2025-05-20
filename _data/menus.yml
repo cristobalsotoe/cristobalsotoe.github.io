@@ -3,19 +3,21 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: Acerca de mi
+- title: About Me
   url: /#about
 #- title: Services
 #  url: /#services
 #- title: Members
 #  url: /#members
-- title: Logros
+- title: Achievements
   url: /#timeline
-- title: Contacto
+- title: Contact
   url: /#Contacto
 - title: CV
   url: /CV
-- title: Plataformas Web
-  url: /Plataformas web
+- title: IDF Curves
+  url: https:curvasidf.cl
+#- title: Plataformas Web
+#  url: /Plataformas web
 #- title: Recomendaciones
 #  url: /links

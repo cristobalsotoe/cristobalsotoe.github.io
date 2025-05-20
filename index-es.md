@@ -3,7 +3,7 @@ layout: home
 header:
   title: Cristóbal Soto Escobar
   text: >
-    Civil Engineer specialized in Water Resources
+    Ingeniero Civil de la Universidad de la Frontera, con enfoque en Recursos hídricos
   action: # action button is optional
     label: Find Out More
     url: '#timeline'
@@ -13,14 +13,14 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: About me
-    text: I am a Civil Engineer with a strong interest in hydrology and climate. My work focuses on the analysis of extreme precipitation events in the context of a changing climate, the application of gridded datasets (such as precipitation, temperature, and evapotranspiration) in hydrological studies, and the integrated modeling of surface and groundwater systems using coupled hydrological models.
+    title: Acerca de mí!
+    text: Soy Ingeniero Civil, de la Universidad de La Frontera. Temuco, Región de La Araucanía. Me titule en enero del 2020, desde entonces me he enfocado en el estudio de los recursos hídricos, trabajando en estudios de Planes Estrategicos de Gestión Hídrica, estudios hidrologicos y desarrollando modelos superficiales e integrados. Adicionalmente me he especializado en el desarrollo de plataformas de visualización de datos hidrológicos espaciales y temporales.
     actions:
-      - title: Check my CV
+      - title: Ver CV!
         url: 'CV'
         class: btn-light
-      - title: IDF Curves App
-        url: https:curvasidf.cl
+      - title: Ver plataformas web!
+        url: '/Plataformas web'
         class: btn-light
 
 #  - type: services.html
@@ -121,7 +121,7 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Main Achievements
+    title: Principales logros
     background_style: bg-dark text-primary
     last_image: assets\img\foto de perfil.jpg
     actions:
@@ -129,36 +129,36 @@ sections:
         title: >+
           Publication
         text: >-
-         Soto-Escobar, C., Zambrano-Bigiarini, M., Tolorza, V., and Garreaud, R.: Gridded Intensity-Duration-Frequency (IDF) curves: understanding precipitation extremes in a drying climate, EGUsphere [preprint], [_https://doi.org/10.5194/egusphere-2025-621_](https://doi.org/10.5194/egusphere-2025-621), 2025.
+          Soto-Escobar, C., Zambrano-Bigiarini, M., Tolorza, V., and Garreaud, R.: Gridded Intensit-Duration-Frequency (IDF) curves: understanding precipitation extremes in a drying climate, EGUsphere [preprint], [_https://doi.org/10.5194/egusphere-2025-621_](https://doi.org/10.5194/egusphere-2025-621), 2025.
       - image: assets/img/fulbright.jpg
         title: >+
           Fulbright
         text: >-
-          Awarded the [Fulbright BIO Doctoral Scholarship 2023](https://fulbrightchile.cl/becas/beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-beca-bio/), to begin in 2026. See news article [here](https://ingenieriacivil.ufro.cl/noticias/beca-fulbright.html)
+          Se otorgado [Beca de Doctorado Fulbright BIO 2023](https://fulbrightchile.cl/becas/beca-de-doctorado-igualdad-de-oportunidades-fulbright-anid-beca-bio/) para comenzar 2026, ver noticia en [Link](https://ingenieriacivil.ufro.cl/noticias/beca-fulbright.html)
       - image: assets/img/portfolio/thumbnails/icass.jpeg
         title: >+
-          2020–Present  
-          **Consulting Engineer at ICASS Spa**
+          2020-Presente
+          **Ingeniero Consultor en ICASS Spa**
         text: >-
-          Part of the modeling team for the development of **Strategic Water Resource Management Plans (DGA)** in:
+          Parte del equipo de modelación y desarrollado de **Planes Estrategicos de Gestión de Recursos Hídricos (DGA)** en:
         text2: >-
-          - Maipo River Basin
+          - Cuenca del río Maipo
         text3: >-
-          - Coastal Basins between the Maipo and Rapel Rivers
+          - Cuencas Costeras entre el río Maipo y Rapel
         text4: >-
-          - Quebrada de la Concordia Basin (in development)
+          - Cuenca de la Quebrada de la Concoridía (en desarrollo)
       - image: assets\img\egu.jpg
         title: >+
-          2020  
+          2020
           **EGU General Assembly**
         text: >-
-          Zambrano M., Soto C., Baez O. Spatially-distributed IDF curves for Central-Southern Chile using IMERG, EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-21091. [View Poster](/Poster_EGU_2020)
+          Zambrano M., Soto C., Baez O. Spatially-distributed IDF curves for Center-Southern Chile using IMERG, EGU General Assembly 2020, Online, 4–8 May 2020, EGU2020-21091. [Ver](/Poster_EGU_2020)
       - image: assets/img/portfolio/thumbnails/perfil-universidad-la-frontera.jpeg
         title: >-
-         January 2020  
-         **Civil Engineer – University of La Frontera**
+          Enero 2020
+          **Ingeniero Civil de la Universidad de la Frontera**
         text: >-
-          Graduated with highest honors. Thesis: “Construction of high-resolution spatial Intensity-Duration-Frequency curves for Central-Southern Chile”
+          Obtención de calificación máxima en proyecto de titulación: “Construcción de curvas Intensidad-Duración-Frecuencia de alta resolución espacial en la zona Centro-Sur de Chile”
 
 
 #  - type: services.html
@@ -190,9 +190,9 @@ sections:
 
   - type: contact.html
     section_id: Contacto
-    title: Stay in touch
+    title: Mantengámonos en contacto!
     text: >-
-      Feel free to email me — I’ll reply as soon as possible!
+      Escribeme al e-mail y te contestaré a penas pueda!
     actions:
     - title: E-Mail
       icon: fa-envelope

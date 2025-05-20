@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 #background_style: bg-info
 background_image: url('assets/img/IMG_20200215_120819_1.jpg')
 # Add a link to the the top menu
@@ -9,14 +9,10 @@ menus:
     title: Links
     weight: 2
 ---
-<a href="/assets/2025_CV_Cristobal_Soto_EN.pdf" class="btn btn-primary" download>
-  📄 Download CV (PDF)
-</a>
-<p style="font-size: 0.8em; color: gray; margin-top: 5px;">
-  Last updated: May 2025
-</p>
-**Cristóbal Javier Soto Escobar**  
-**Civil Engineer specialized in Water Resources**  
+
+# Cristóbal Javier Soto Escobar
+
+**Civil Engineer with a focus on Water Resources**  
 📍 Temuco, Chile  
 📧 [cristobal.soto.9@gmail.com](mailto:cristobal.soto.9@gmail.com)  
 🌐 [www.cristobalsoto.cl](https://www.cristobalsoto.cl)  
@@ -83,7 +79,7 @@ menus:
 ###### **2020** — Research Assistant, Universidad Austral de Chile
 
 - Participated in FONDAP Project 15110009  
-  **Study:** Streamflow Response to Native Forest Restoration in Former Eucalyptus Plantations in South-Central Chile” (Lara, A. et al.).  
+  **Study:** "Streamflow Response to Native Forest Restoration..."  
   [DOI: 10.1002/hyp.14270](https://doi.org/10.1002/hyp.14270)
 
 ---
